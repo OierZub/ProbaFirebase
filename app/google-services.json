@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "15377950655",
+    "project_id": "probafirestore-7110b",
+    "storage_bucket": "probafirestore-7110b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15377950655:android:1195ad160a62bb0a15630a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15377950655-uvfh9prk2h2iib78bka24o65534s1hnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK1UtNLQezybUu23W_dj5PHG9DyoTK7Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15377950655-uvfh9prk2h2iib78bka24o65534s1hnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15377950655:android:ea4babcb4f59f8b815630a",
+        "android_client_info": {
+          "package_name": "com.example.probafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15377950655-0jm6en7gmjck31rcg7gijsceavumh3h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.probafirebase",
+            "certificate_hash": "cc76bd4dc280d31d6a4461fc2388a41d0acd0d3b"
+          }
+        },
+        {
+          "client_id": "15377950655-uvfh9prk2h2iib78bka24o65534s1hnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK1UtNLQezybUu23W_dj5PHG9DyoTK7Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15377950655-uvfh9prk2h2iib78bka24o65534s1hnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
